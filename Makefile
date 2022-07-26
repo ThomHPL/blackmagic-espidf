@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-IDF_PATH=$(PWD)/ESP8266_RTOS_SDK
+#IDF_PATH=$(PWD)/ESP8266_RTOS_SDK
 
 PROJECT_NAME := blackmagic
 
